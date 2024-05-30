@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Anuragroy24/Family-Travel-Tracker.git
     ```
 2. **Navigate to the project directory:**
     ```bash
